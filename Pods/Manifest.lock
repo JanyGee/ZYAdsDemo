@@ -1,0 +1,31 @@
+PODS:
+  - MBProgressHUD (1.2.0)
+  - SDWebImage (5.6.1):
+    - SDWebImage/Core (= 5.6.1)
+  - SDWebImage/Core (5.6.1)
+  - ZYAdSDKS (1.5.3):
+    - ZYCoreKits
+  - ZYCoreKits (1.3.2)
+
+DEPENDENCIES:
+  - MBProgressHUD
+  - SDWebImage
+  - ZYAdSDKS (= 1.5.3)
+  - ZYCoreKits (= 1.3.2)
+
+SPEC REPOS:
+  trunk:
+    - MBProgressHUD
+    - SDWebImage
+    - ZYAdSDKS
+    - ZYCoreKits
+
+SPEC CHECKSUMS:
+  MBProgressHUD: 3ee5efcc380f6a79a7cc9b363dd669c5e1ae7406
+  SDWebImage: 7edb9c3ea661e77a66661f7f044de8c1b55d1120
+  ZYAdSDKS: 93d0c40edaf23fdffcd1ebc9b124e8db038c4007
+  ZYCoreKits: 205c9796d8785ecf6fcadc8373f6c29118ada743
+
+PODFILE CHECKSUM: c05e37cc149791475050f55336df3ab19b4e63aa
+
+COCOAPODS: 1.9.3
